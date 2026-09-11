@@ -1,2 +1,3 @@
 # YWCC307RustAssignment
-Repo for the Rust code
+Repo for the Rust code by Eli Chi
+
